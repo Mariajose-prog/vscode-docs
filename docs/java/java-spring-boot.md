@@ -32,7 +32,7 @@ To develop a Spring Boot application in Visual Studio Code, you need to install 
 
 <a class="install-extension-btn" href="vscode:extension/vmware.vscode-boot-dev-pack">Install the Spring Boot Extension Pack</a>
 
->**Note**: More information about how to get started can be found at [Getting Started with Java](/docs/java/java-tutorial.md) tutorial.
+>**Note**: Morine information about how to get started can be found at [Getting Started with Java](/docs/java/java-tutorial.md) tutorial.
 
 To help get you started with Java Spring Boot development, you can use the [Java Spring profile template](/docs/editor/profiles.md#java-spring-profile-template) that includes useful extensions, settings, and Java Spring Boot code snippets.
 
